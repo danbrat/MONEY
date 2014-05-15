@@ -161,7 +161,7 @@ body {
 	opacity: 0;
 	background: url('../img/sb2.jpg');
 	background-repeat: no-repeat;
-	background-size: 1300px 813px;
+	background-size: cover;
 	background-position: 100% 0%;
 	z-index: 1;
 }
